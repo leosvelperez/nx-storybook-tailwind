@@ -43,7 +43,7 @@
         "config": {
           "configFolder": "libs/lib1/.storybook"
         },
-        "projectBuildConfig": "lib1:build-storybook"
+        "styles": ["libs/lib1/.storybook/styles.css"]
       },
       "configurations": {
         "ci": {
